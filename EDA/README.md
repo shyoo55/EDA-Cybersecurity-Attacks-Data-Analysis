@@ -14,13 +14,21 @@ The data will help us understand the nature of Cybersecurity attacks and raising
 The features provided in the dataset are:
 
 Attack category : Type of registered cybersecurity attack
+
 Attack subcategory: A subcategory of the type of cybersecurity attack registered
+
 Attack Name: The technical name for the cybersecurity attack
+
 Time: Start and end date of the attack in timestamp format
+
 Protocol: The protocol used for the attack.
+
 Source IP:  IPv4 address where the attack came from.
+
 Source Port: The logical port where the attack came from.
+
 Destination IP: Destination IPv4 address.
+
 Destination Port: Logical destination port
 
 
@@ -29,7 +37,9 @@ Destination Port: Logical destination port
 # Tools:
 Tools:
 To explore and analyze the data, I will be using Jupyter notebook to use python language and Python libraries, such as: 
+
 Matplotlib and Seaborn for data visualization. 
+
 Numpy and Panda for data read and write operations 
 
 
